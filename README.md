@@ -1,81 +1,52 @@
 <div align="center">
 
-<!-- ==================== HEADER ==================== -->
-
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0910,45:171020,100:6D28D9&text=7M7&fontColor=F5F3FF&fontSize=68&fontAlignY=35&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090F,50:1B1033,100:7C3AED&text=7M7&fontColor=F5F3FF&fontSize=80&fontAlignY=38&animation=fadeIn"
+  alt="7M7"
 />
+
+### Data Science Student
+Ocean University of China
 
 <br/>
-
-<!-- ==================== INTRO ==================== -->
-
-<p>
-  <strong>Data Science Student</strong>
-  &nbsp;·&nbsp;
-  Ocean University of China
-</p>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3200&pause=1600&color=8B7CF6&center=true&vCenter=true&width=620&height=30&lines=Data+Science+%C2%B7+Development+%C2%B7+Notes"
-  alt="Typing SVG"
-/>
-
-<br/><br/>
 
 <a href="https://7M7666.github.io">
-  <img src="https://img.shields.io/badge/BLOG-121016?style=flat-square&logo=githubpages&logoColor=8B7CF6" />
+  <img src="https://img.shields.io/badge/BLOG-181122?style=for-the-badge&logo=githubpages&logoColor=C4B5FD" alt="Blog" />
 </a>
-&nbsp;
 <a href="mailto:liwanlin0525@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-121016?style=flat-square&logo=gmail&logoColor=8B7CF6" />
+  <img src="https://img.shields.io/badge/EMAIL-181122?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Email" />
 </a>
-&nbsp;
 <a href="https://github.com/7M7666">
-  <img src="https://img.shields.io/badge/GITHUB-121016?style=flat-square&logo=github&logoColor=8B7CF6" />
+  <img src="https://img.shields.io/badge/GITHUB-181122?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub" />
 </a>
-
-<br/><br/><br/>
-
-</div>
-
-
-## About
-
-Data Science student interested in data analysis, machine learning and software development.
-
-I use this space to keep track of projects, coursework and things I learn along the way.
-
-
-
-
-
-## Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-121016?style=flat-square&logo=python&logoColor=8B7CF6" />
-  <img src="https://img.shields.io/badge/Java-121016?style=flat-square&logo=openjdk&logoColor=8B7CF6" />
-  <img src="https://img.shields.io/badge/Git-121016?style=flat-square&logo=git&logoColor=8B7CF6" />
-  <img src="https://img.shields.io/badge/GitHub-121016?style=flat-square&logo=github&logoColor=8B7CF6" />
-  <img src="https://img.shields.io/badge/VS_Code-121016?style=flat-square&logo=visualstudiocode&logoColor=8B7CF6" />
-</p>
-
-
-
-<br/>
-
-<div align="center">
-
-<sub>
-code · notes · projects
-</sub>
 
 <br/><br/>
 
+</div>
+
+## About Me
+
+I'm a Data Science student exploring machine learning, data analysis and software development.
+
+This is where I build projects, work through ideas and document what I learn.
+
+<br/>
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-181122?style=for-the-badge&logo=python&logoColor=C4B5FD" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-181122?style=for-the-badge&logo=openjdk&logoColor=C4B5FD" alt="Java" />
+  <img src="https://img.shields.io/badge/Git-181122?style=for-the-badge&logo=git&logoColor=C4B5FD" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181122?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-181122?style=for-the-badge&logoColor=C4B5FD" alt="VS Code" />
+</p>
+
+<br/>
+
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0B0910,45:171020,100:6D28D9"
+  src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:09090F,50:1B1033,100:7C3AED"
+  alt=""
 />
-
-</div>
