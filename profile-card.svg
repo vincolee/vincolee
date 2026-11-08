@@ -1,86 +1,18 @@
-<svg width="860" height="360" viewBox="0 0 860 360" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="860" height="360" rx="26" fill="#0D0B14"></rect>
-
-  <rect x="24" y="24" width="812" height="312" rx="18" fill="#12101B" stroke="#2A2038" stroke-width="2"></rect>
-
-  <rect x="24" y="24" width="812" height="46" rx="18" fill="#171225"></rect>
-  <circle cx="56" cy="47" r="6" fill="#F87171"></circle>
-  <circle cx="78" cy="47" r="6" fill="#FACC15"></circle>
-  <circle cx="100" cy="47" r="6" fill="#22C55E"></circle>
-
-  <text x="430" y="52" text-anchor="middle" font-family="monospace" font-size="14" fill="#7C6B91">
-    7M7.profile
-  </text>
-
-  <rect x="72" y="106" width="132" height="132" rx="14" fill="#0D0B14" stroke="#A78BFA" stroke-width="2"></rect>
-
-  <rect x="106" y="132" width="16" height="16" fill="#A78BFA"></rect>
-  <rect x="122" y="116" width="16" height="16" fill="#A78BFA"></rect>
-  <rect x="138" y="116" width="16" height="16" fill="#C084FC"></rect>
-  <rect x="154" y="132" width="16" height="16" fill="#A78BFA"></rect>
-
-  <rect x="90" y="148" width="16" height="16" fill="#A78BFA"></rect>
-  <rect x="106" y="148" width="16" height="16" fill="#C084FC"></rect>
-  <rect x="122" y="148" width="16" height="16" fill="#E9D5FF"></rect>
-  <rect x="138" y="148" width="16" height="16" fill="#E9D5FF"></rect>
-  <rect x="154" y="148" width="16" height="16" fill="#C084FC"></rect>
-  <rect x="170" y="148" width="16" height="16" fill="#A78BFA"></rect>
-
-  <rect x="90" y="164" width="16" height="16" fill="#A78BFA"></rect>
-  <rect x="106" y="164" width="16" height="16" fill="#E9D5FF"></rect>
-  <rect x="122" y="164" width="16" height="16" fill="#0D0B14"></rect>
-  <rect x="138" y="164" width="16" height="16" fill="#0D0B14"></rect>
-  <rect x="154" y="164" width="16" height="16" fill="#E9D5FF"></rect>
-  <rect x="170" y="164" width="16" height="16" fill="#A78BFA"></rect>
-
-  <rect x="106" y="180" width="16" height="16" fill="#A78BFA"></rect>
-  <rect x="122" y="180" width="48" height="16" fill="#C084FC"></rect>
-  <rect x="154" y="196" width="16" height="16" fill="#A78BFA"></rect>
-
-  <text x="248" y="132" font-family="monospace" font-size="16" fill="#7C6B91">
-    PLAYER SELECT
-  </text>
-
-  <text x="248" y="177" font-family="monospace" font-size="52" font-weight="700" fill="#EDE9FE">
-    7M7
-  </text>
-
-  <text x="252" y="208" font-family="monospace" font-size="18" fill="#A78BFA">
-    Data Science Student · Data Development Intern
-  </text>
-
-  <text x="252" y="238" font-family="monospace" font-size="15" fill="#9CA3AF">
-    Ocean University of China · Class of 2024
-  </text>
-
-  <rect x="252" y="266" width="92" height="30" rx="6" fill="#1E1630" stroke="#A78BFA"></rect>
-  <text x="298" y="286" text-anchor="middle" font-family="monospace" font-size="13" fill="#EDE9FE">PYTHON</text>
-
-  <rect x="356" y="266" width="72" height="30" rx="6" fill="#1E1630" stroke="#38BDF8"></rect>
-  <text x="392" y="286" text-anchor="middle" font-family="monospace" font-size="13" fill="#EDE9FE">JAVA</text>
-
-  <rect x="440" y="266" width="62" height="30" rx="6" fill="#1E1630" stroke="#22C55E"></rect>
-  <text x="471" y="286" text-anchor="middle" font-family="monospace" font-size="13" fill="#EDE9FE">SQL</text>
-
-  <rect x="514" y="266" width="62" height="30" rx="6" fill="#1E1630" stroke="#FACC15"></rect>
-  <text x="545" y="286" text-anchor="middle" font-family="monospace" font-size="13" fill="#EDE9FE">GIT</text>
-
-  <text x="706" y="132" font-family="monospace" font-size="14" fill="#7C6B91">
-    STATUS
-  </text>
-
-  <text x="706" y="162" font-family="monospace" font-size="18" fill="#22C55E">
-    ONLINE
-  </text>
-
-  <text x="706" y="210" font-family="monospace" font-size="14" fill="#7C6B91">
-    MODE
-  </text>
-
-  <text x="706" y="240" font-family="monospace" font-size="18" fill="#A78BFA">
-    BUILDING
-  </text>
-
-  <rect x="704" y="264" width="70" height="10" fill="#2A2038"></rect>
-  <rect x="704" y="264" width="46" height="10" fill="#A78BFA"></rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="306" viewBox="0 0 1120 306" role="img" aria-labelledby="title desc">
+  <title id="title">Vinco Lee — personal archive</title>
+  <desc id="desc">An editorial-style ivory and charcoal banner with a discreet olive accent and Nico / 7M7 signature.</desc>
+  <rect width="1120" height="306" rx="12" fill="#F1F0E9"/>
+  <g fill="#303834">
+    <text x="62" y="51" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.2">V / L</text>
+    <text x="1058" y="51" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2.5">PERSONAL ARCHIVE · 2026</text>
+  </g>
+  <line x1="62" y1="72" x2="1058" y2="72" stroke="#C5C9C1" stroke-width="1"/>
+  <rect x="62" y="117" width="5" height="99" fill="#788A7A"/>
+  <text x="87" y="210" fill="#202825" font-family="Georgia, Times New Roman, serif" font-size="111" letter-spacing="-3.5">Vinco Lee<tspan fill="#788A7A">.</tspan></text>
+  <line x1="872" y1="120" x2="872" y2="216" stroke="#C5C9C1" stroke-width="1"/>
+  <text x="904" y="151" fill="#39443D" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="2">NICO</text>
+  <text x="904" y="183" fill="#748476" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="2">7M7</text>
+  <line x1="62" y1="239" x2="1058" y2="239" stroke="#C5C9C1" stroke-width="1"/>
+  <text x="62" y="272" fill="#616D64" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.7">CODE / EXPERIMENTS / NOTES</text>
+  <text x="1058" y="272" text-anchor="end" fill="#616D64" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="0.7">OCEAN UNIVERSITY OF CHINA</text>
 </svg>
